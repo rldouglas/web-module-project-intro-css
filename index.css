@@ -1,0 +1,18 @@
+nav {
+    background-color: #FF764E;
+}
+
+h1 {
+    align-content: flex-end;
+}
+
+
+.header_img{
+    width: 30%;
+    border-radius: 50%;
+}
+
+
+.footer_img{ 
+    width: 100%;  
+}
